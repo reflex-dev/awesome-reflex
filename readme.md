@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/reflex-dev/awesome-reflex/main/docs/images/dark_logo.svg#gh-light-mode-only" alt="Reflex Logo" width="300px">
-    <img src="https://raw.githubusercontent.com/reflex-dev/awesome-reflex/main/docs/images/light_logo.svg#gh-dark-mode-only" alt="Reflex Logo" width="300px">
+    <img src="https://raw.githubusercontent.com/reflex-dev/awesome-reflex/main/images/dark_logo.svg#gh-light-mode-only" alt="Reflex Logo" width="300px">
+    <img src="https://raw.githubusercontent.com/reflex-dev/awesome-reflex/main/images/light_logo.svg#gh-dark-mode-only" alt="Reflex Logo" width="300px">
 
 [![PyPI version](https://badge.fury.io/py/reflex.svg)](https://badge.fury.io/py/reflex)
 ![versions](https://img.shields.io/pypi/pyversions/reflex.svg)
