@@ -177,14 +177,6 @@ A repo of complete Reflex examples can be found [here.](https://github.com/refle
     </table>
 </div>
 
-## 🤝 Contributing
-
-[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
-
-### Contributors
-
-[Thanks goes to these contributors](https://github.com/reflex-dev/awesome-reflex/graphs/contributors)!
-
 ## 📜 License
 
 Reflex is licensed under Apache 2.0!
