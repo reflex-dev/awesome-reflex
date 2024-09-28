@@ -35,8 +35,6 @@ With Reflex, you can build anything from small data science projects to large, m
 - [📦 Component Libraries](#-component-libraries)
 - [🔐 Databases and Authentication](#-databases-and-authentication)
 - [🔗 Checkout/Social media links](#-checkoutsocial-media-links)
-- [🤝 Contributing](#-contributing)
-  - [Contributors](#contributors)
 - [📜 License](#-license)
 
 ## 🛠️ Example Apps and Templates
