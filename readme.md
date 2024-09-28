@@ -1,3 +1,5 @@
+<!--lint disable awesome-heading-->
+<!--lint disable double-link>
 <div align="center">
     <img src="https://raw.githubusercontent.com/reflex-dev/awesome-reflex/main/images/dark_logo.svg#gh-light-mode-only" alt="Reflex Logo" width="300px">
     <img src="https://raw.githubusercontent.com/reflex-dev/awesome-reflex/main/images/light_logo.svg#gh-dark-mode-only" alt="Reflex Logo" width="300px">
@@ -14,7 +16,7 @@ It allows developers to create both the frontend and backend of their web apps u
 With Reflex, you can build anything from small data science projects to large, multi-page websites without having to write any HTML, CSS, or JavaScript.
 
 ## 📚 Contents
-
+<!--lint disable awesome-toc-->
 - [🛠️ Example Apps and Templates](#️-example-apps-and-templates)
   - [Official Templates](#official-templates)
   - [Not a long-list of apps](#not-a-long-list-of-apps)

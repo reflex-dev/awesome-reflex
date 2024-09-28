@@ -1,0 +1,33 @@
+name: Suggestion
+description: Help us improve with suggestions
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this suggestion form!
+  - type: input
+    id: suggestion
+    attributes:
+      label: Link to suggestion (github, demo link, blog url etc.)
+      description: Please share a link to your suggestion
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: input
+    id: type
+    attributes:
+      label: type
+      description: Please share a link to your suggestion
+      placeholder: tool, official, community, paid, free, component library etc.
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your suggestion
+      description: How and why is your suggestion useful to this community? 🤔
+      placeholder: I wish to see resource <xyz> here because it is used for...
+    validations:
+      required: true
