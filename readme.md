@@ -69,8 +69,6 @@ A repo of complete Reflex examples can be found [here.](https://github.com/refle
 
 - [How Reflex works](https://reflex.dev/docs/getting-started/how-reflex-works/)
 - [Getting Started](https://reflex.dev/docs/getting-started/introduction/)
-- [Table Component](https://reflex.dev/blog/2024-06-28-using-table-component/)
-- [Custom Components](https://reflex.dev/blog/2024-04-16-custom-components/)
 
 ## External Resources
 
@@ -100,10 +98,8 @@ A repo of complete Reflex examples can be found [here.](https://github.com/refle
 ### Videos
 
 - [Building an AI chat app with Reflex](https://www.youtube.com/watch?v=ITOZkzjtjUA)
-- [6 hour reflex tutorial](https://www.youtube.com/watch?v=ITOZkzjtjUA)
 - [Animated Sidebar Menu](https://youtu.be/jQMsWL0g0jc?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7)
-- [Web App UI (One)](https://youtu.be/uBx2T7ltQK0?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7)
-- [Web App UI (Two)](https://youtu.be/uBx2T7ltQK0?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7)
+- [Web App UI](https://youtu.be/uBx2T7ltQK0?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7)
 - [Data Table Automation](https://youtu.be/j8ZX6bRynZ8?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7)
 - [Login UI](https://youtu.be/FnEXy6we_5k?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7)
 - [Web Auth Trailer](https://youtu.be/P5rBlAzoxP0?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7)
