@@ -8,7 +8,6 @@
 [![Documentation](https://img.shields.io/badge/Documentation%20-Introduction%20-%20%23007ec6)](https://reflex.dev/docs/getting-started/introduction)
 [![Discord](https://img.shields.io/discord/1029853095527727165?color=%237289da&label=Discord)](https://discord.gg/T5WSbC2YtQ)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![Awesome Linting](https://github.com/itsmeadarsh2008/awesome-reflex/actions/workflows/lint.yaml/badge.svg)
 </div>
 
 Reflex is an open-source framework for building full-stack web applications entirely in pure Python.
