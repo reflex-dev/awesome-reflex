@@ -1,3 +1,4 @@
+<!--lint disable awesome-badge unordered-list-marker-style trailing-slash awesome-heading awesome-github awesome-toc double-link awesome-list-item no-repeat-punctuation-->
 <div align="center">
     <img src="https://raw.githubusercontent.com/reflex-dev/awesome-reflex/main/images/dark_logo.svg#gh-light-mode-only" alt="Reflex Logo" width="300px">
     <img src="https://raw.githubusercontent.com/reflex-dev/awesome-reflex/main/images/light_logo.svg#gh-dark-mode-only" alt="Reflex Logo" width="300px">
@@ -6,6 +7,8 @@
 ![versions](https://img.shields.io/pypi/pyversions/reflex.svg)
 [![Documentation](https://img.shields.io/badge/Documentation%20-Introduction%20-%20%23007ec6)](https://reflex.dev/docs/getting-started/introduction)
 [![Discord](https://img.shields.io/discord/1029853095527727165?color=%237289da&label=Discord)](https://discord.gg/T5WSbC2YtQ)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![Awesome Linting](https://github.com/itsmeadarsh2008/awesome-reflex/actions/workflows/lint.yaml/badge.svg)
 </div>
 
 Reflex is an open-source framework for building full-stack web applications entirely in pure Python.
@@ -15,6 +18,7 @@ With Reflex, you can build anything from small data science projects to large, m
 
 ## 📚 Contents
 
+- [📚 Contents](#-contents)
 - [🛠️ Example Apps and Templates](#️-example-apps-and-templates)
   - [Official Templates](#official-templates)
   - [Not a long-list of apps](#not-a-long-list-of-apps)
@@ -31,8 +35,6 @@ With Reflex, you can build anything from small data science projects to large, m
 - [📦 Component Libraries](#-component-libraries)
 - [🔐 Databases and Authentication](#-databases-and-authentication)
 - [🔗 Checkout/Social media links](#-checkoutsocial-media-links)
-- [🤝 Contributing](#-contributing)
-  - [Contributors](#contributors)
 - [📜 License](#-license)
 
 ## 🛠️ Example Apps and Templates
@@ -66,8 +68,6 @@ A repo of complete Reflex examples can be found [here.](https://github.com/refle
 
 - [How Reflex works](https://reflex.dev/docs/getting-started/how-reflex-works/)
 - [Getting Started](https://reflex.dev/docs/getting-started/introduction/)
-- [Table Component](https://reflex.dev/blog/2024-06-28-using-table-component/)
-- [Custom Components](https://reflex.dev/blog/2024-04-16-custom-components/)
 
 ## External Resources
 
@@ -97,10 +97,8 @@ A repo of complete Reflex examples can be found [here.](https://github.com/refle
 ### Videos
 
 - [Building an AI chat app with Reflex](https://www.youtube.com/watch?v=ITOZkzjtjUA)
-- [6 hour reflex tutorial](https://www.youtube.com/watch?v=ITOZkzjtjUA)
 - [Animated Sidebar Menu](https://youtu.be/jQMsWL0g0jc?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7)
-- [Web App UI (One)](https://youtu.be/uBx2T7ltQK0?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7)
-- [Web App UI (Two)](https://youtu.be/uBx2T7ltQK0?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7)
+- [Web App UI](https://youtu.be/uBx2T7ltQK0?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7)
 - [Data Table Automation](https://youtu.be/j8ZX6bRynZ8?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7)
 - [Login UI](https://youtu.be/FnEXy6we_5k?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7)
 - [Web Auth Trailer](https://youtu.be/P5rBlAzoxP0?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7)
@@ -176,14 +174,6 @@ A repo of complete Reflex examples can be found [here.](https://github.com/refle
       </tr>
     </table>
 </div>
-
-## 🤝 Contributing
-
-[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
-
-### Contributors
-
-[Thanks goes to these contributors](https://github.com/reflex-dev/awesome-reflex/graphs/contributors)!
 
 ## 📜 License
 
