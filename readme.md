@@ -17,7 +17,6 @@ With Reflex, you can build anything from small data science projects to large, m
 
 ## 📚 Contents
 
-- [📚 Contents](#-contents)
 - [🛠️ Example Apps and Templates](#️-example-apps-and-templates)
   - [Official Templates](#official-templates)
   - [Not a long-list of apps](#not-a-long-list-of-apps)
@@ -173,7 +172,3 @@ A repo of complete Reflex examples can be found [here.](https://github.com/refle
       </tr>
     </table>
 </div>
-
-## 📜 License
-
-Reflex is licensed under Apache 2.0!
