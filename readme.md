@@ -9,7 +9,6 @@
 [![Discord](https://img.shields.io/discord/1029853095527727165?color=%237289da&label=Discord)](https://discord.gg/T5WSbC2YtQ)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 </div>
-<!--lint ignore double-link-->
 
 [Reflex](https://reflex.dev) is an open-source framework for building full-stack web applications entirely in pure Python.
 It allows developers to create both the frontend and backend of their web apps using just one language - Python.
@@ -38,7 +37,7 @@ With Reflex, you can build anything from small data science projects to large, m
 
 A repo of complete Reflex examples can be found [here.](https://github.com/reflex-dev/reflex-examples)
 
-[Reflex's website](https://reflex.dev) was built using Reflex! See [code on GitHub.](https://github.com/reflex-dev/reflex-web)
+Reflex's own website was built using Reflex! See [code on GitHub.](https://github.com/reflex-dev/reflex-web)
 
 ### Official Templates
 
