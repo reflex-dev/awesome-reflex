@@ -8,6 +8,7 @@
 [![Documentation](https://img.shields.io/badge/Documentation%20-Introduction%20-%20%23007ec6)](https://reflex.dev/docs/getting-started/introduction)
 [![Discord](https://img.shields.io/discord/1029853095527727165?color=%237289da&label=Discord)](https://discord.gg/T5WSbC2YtQ)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 </div>
 
 [Reflex](https://reflex.dev) is an open-source framework for building full-stack web applications entirely in pure Python.
@@ -111,7 +112,7 @@ Reflex's own website was built using Reflex! See [code on GitHub.](https://githu
 ## 📦 Component Libraries
 
 - [`reflex-chakra`](https://chakra.reflex.run/introduction/) - A simple, modular and accessible component library (wrapped).
-- [`reflex-clerk`](https://pypi.org/project/reflex-clerk/) - A library for managing and displaying data in Reflex applications.
+- [`reflex-clerk-api`](https://pypi.org/project/reflex-clerk-api/) - A library with components and helpers for Clerk authentication.
 - [`reflex-color-picker`](https://pypi.org/project/reflex-color-picker/) - A color picker
 - [`reflex-chat`](https://pypi.org/project/reflex-chat/) - A chat component
 - [`reflex-local-auth`](https://pypi.org/project/reflex-local-auth/) - Local authentication
@@ -145,7 +146,7 @@ Reflex's own website was built using Reflex! See [code on GitHub.](https://githu
 - [Alembic](https://alembic.sqlalchemy.org/en/latest/) - Database migrations made easy
 - [SQLModel](https://sqlmodel.tiangolo.com/) - SQL databases with Pydantic
 - [Neon](https://neon.tech) - Serverless Postgres database service
-- [Clerk](https://clerk.com/) ([auth library](https://kroo.github.io/reflex-clerk/)) - Authentication and user management
+- [Clerk](https://clerk.com/) ([auth library](https://timchild.github.io/reflex-clerk-api/about/)) - Authentication and user management
 - [Firebase](https://youtu.be/JRGyvjjWb00?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7) - Backend services for apps
 
 ## 🔗 Checkout/Social media links
