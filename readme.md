@@ -147,6 +147,7 @@ Reflex's own website was built using Reflex! See [code on GitHub.](https://githu
 - [Neon](https://neon.tech) - Serverless Postgres database service
 - [Clerk](https://clerk.com/) ([auth library](https://kroo.github.io/reflex-clerk/)) - Authentication and user management
 - [Firebase](https://youtu.be/JRGyvjjWb00?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7) - Backend services for apps
+- [Scalekit](https://www.scalekit.com) - Add enterprise SSO (SAML, OIDC) and SCIM provisioning on top of existing auth systems like Auth0, Firebase, or Cognito without rewrites
 
 ## 🔗 Checkout/Social media links
 
