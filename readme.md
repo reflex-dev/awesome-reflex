@@ -139,6 +139,7 @@ Reflex's own website was built using Reflex! See [code on GitHub.](https://githu
 - [`reflex-giscus`](https://pypi.org/project/reflex-giscus/) - A GitHub-powered commenting system for Reflex applications.
 - [`reflex-wordcloud`](https://pypi.org/project/reflex-wordcloud/) - Word cloud generator
 - [`reflex-ag-grid`](https://pypi.org/project/reflex-ag-grid/) - AG Grid integration
+- [`reflex-privatus`](https://pypi.org/project/reflex-privatus/) - Cookieless Privatus Analytics tracking script and event helper.
 
 ## 🔐 Databases and Authentication
 
